@@ -8,7 +8,7 @@ Haar Cascade is a machine learning object detection algorithm used to identify o
 OpenCV already contains many pre-trained classifiers for face, eyes, smile etc..So we will be using one of the pre-trained classifier here.
 # Library
 OpenCV (Open Source Computer Vision) is a library of programming functions mainly aimed at real-time computer vision. In short it is a library used for Image Processing. It is mainly used to do all the operation related to Images.We will be using this library.
-### Note : ***A Video is basically a sequence of moving images."Persistance of vision" (speciality of our eyes)  plays a major role in receiving moving images.*** 
+### Note : ***Video is basically a sequence of moving images."Persistance of vision" (speciality of our eyes)  plays a major role in receiving moving images.*** 
 # Steps
 ## Installation :
 
@@ -22,8 +22,8 @@ pip install opencv-python
 <br>
 <img src="https://github.com/Godson-Thomas/Image_Processing---Facial-Detection-Using-OpenCV/blob/master/Images/2.png" width="500" height=75>  <br><br> 
 
-4. - Download the ***Haar Cascade Classifier***. [click here]()<br>
--    Download a sample video.[click here]()
+4. - Download the ***Haar Cascade Classifier***. [click here](https://raw.githubusercontent.com/Godson-Thomas/Image_Processing--Car_Detection_using_OpenCV-python/master/cars.xml)<br>
+-    Download a sample video.[click here](https://github.com/Godson-Thomas/Image_Processing--Car_Detection_using_OpenCV-python/blob/master/Images%20And%20Videos/1video.avi)
 
  ## Code :
  ### Type the codes in the cell and run it.<br><br>
