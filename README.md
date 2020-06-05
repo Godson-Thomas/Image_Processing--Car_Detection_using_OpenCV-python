@@ -88,7 +88,7 @@ cv2.destroyAllWindows()
  cv2.imshow("video" ,img)
  ```
  ### Note :
- Make sure that you destroy all the windows you opened.
+ Make sure that you destroy all the opened windows.
  ```
  video.release()
 cv2.destroyAllWindows()
